@@ -1,0 +1,25 @@
+.redsun{
+    color:red;
+}
+.table thead th {
+    vertical-align: middle !important;
+    border-bottom: 2px solid #dee2e6;
+}
+.nav-pills{
+    background-color: black;
+}
+.nav-tabs{
+    background-color: black;
+}
+
+.nav-tabs .nav-link:focus, .nav-tabs .nav-link:hover {
+    border-color: #e9ecef #e9ecef #dee2e6;
+}
+
+.nav-tabs .nav-link:focus, .nav-tabs a:hover {
+    color:red;
+}
+
+a[role=menuitem]{
+    display: block;
+}
